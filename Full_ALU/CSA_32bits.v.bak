@@ -1,0 +1,2 @@
+module CSA_32bits(a, b, cin, sum, cout);
+	
